@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Manas Ranjan Aran — Data Science & AI Portfolio
 
 A responsive personal portfolio built with React + Vite and custom CSS. It uses no Tailwind, no backend, and no environment variables.
@@ -57,3 +58,6 @@ You can deploy the Vite app to Vercel, Netlify, or GitHub Pages. The easiest opt
 - Vite
 - Lucide icons
 - Custom CSS
+=======
+# Portfolio
+>>>>>>> ef620d44919d759d2eb16555efe19d77465506fa
